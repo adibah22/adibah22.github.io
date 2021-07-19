@@ -1,0 +1,39 @@
+body {
+    background-color: #E6E6FA;
+  }
+
+.profile-picture {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0 4px 6px 0 rgba(34, 60, 80, .16);
+  }
+
+.name {
+    font-style: bold;
+}
+.intro {
+    text-align: center;
+    color: #5e0166;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Roboto';
+  }
+h3 { 
+    font-style: italic;
+  }
+
+a {
+    color: rgb(76, 8, 139);
+  }
+
+.container {
+    max-width: 840px;
+    margin: 0 auto;
+  }
+  
+.contact {
+    text-align: right;
+    color: #5e0166;
+}
